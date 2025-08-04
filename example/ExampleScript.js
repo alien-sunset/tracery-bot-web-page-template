@@ -1,6 +1,6 @@
 //this is the js script that makes the bot run. you shouldn't need to change anything here
 
-//this tells the script to run right away when your pagtet loads
+//this tells the script to run right away when your page loads
 window.addEventListener("load", () => {
 
 	//this is the typical tracery setup code

@@ -1,1 +1,1 @@
-const BotTracery =  copy and paste your tracery code here making sure that it is in corectly formatted JSON format and to include all brackets
+const BotTracery =  copy and paste your tracery code here making sure that it is in correctly formatted JSON format and to include all brackets
